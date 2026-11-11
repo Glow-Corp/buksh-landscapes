@@ -1,0 +1,107 @@
+<section class="section quote on-dark" id="quote" aria-labelledby="quote-h">
+  <div class="wrap quote-grid">
+    <div class="quote-aside">
+      <span class="kicker">Free estimate</span>
+      <h2 class="h2" id="quote-h" style="margin-top:18px">Let's walk your yard.</h2>
+      <p class="lede" style="margin-top:18px">Three quick steps. We'll come out, measure, talk through ideas and give you a written estimate. No cost, no pressure.</p>
+      <ul>
+        <li><svg class="i"><use href="#i-check"/></svg><span>On-site visit and written estimate, free</span></li>
+        <li><svg class="i"><use href="#i-check"/></svg><span>2-year workmanship coverage on hardscapes, 1 year on turf and plants</span></li>
+        <li><svg class="i"><use href="#i-check"/></svg><span>Financing available through Financeit</span></li>
+      </ul>
+      <div class="quote-call">
+        <a href="tel:{{phone}}"><svg class="i"><use href="#i-phone"/></svg>{{phoneDisplay}}</a>
+        <small>Rather talk? Phones are answered 9 am – 5 pm, 7 days a week.</small>
+      </div>
+    </div>
+
+    <div>
+      <form class="qform" data-qform novalidate>
+        <div class="q-steps" aria-hidden="true"><span></span><span></span><span></span></div>
+        <p class="q-meta" data-q-meta aria-live="polite">Step 1 of 3</p>
+
+        <fieldset class="q-panel">
+          <legend>What are you picturing?</legend>
+          <p class="q-hint">Pick everything that applies. You can change your mind at the visit.</p>
+          <div class="chips">
+            <label class="chip"><input type="checkbox" name="services" value="Paver patio"><span>Paver patio</span></label>
+            <label class="chip"><input type="checkbox" name="services" value="Artificial turf"><span>Artificial turf</span></label>
+            <label class="chip"><input type="checkbox" name="services" value="Putting green"><span>Putting green</span></label>
+            <label class="chip"><input type="checkbox" name="services" value="Sod"><span>Sod</span></label>
+            <label class="chip"><input type="checkbox" name="services" value="Grading"><span>Rough / final grading</span></label>
+            <label class="chip"><input type="checkbox" name="services" value="Retaining wall"><span>Retaining wall</span></label>
+            <label class="chip"><input type="checkbox" name="services" value="Fire pit"><span>Fire pit</span></label>
+            <label class="chip"><input type="checkbox" name="services" value="Landscape lighting"><span>Lighting</span></label>
+            <label class="chip"><input type="checkbox" name="services" value="Water feature"><span>Water feature</span></label>
+            <label class="chip"><input type="checkbox" name="services" value="Trees and shrubs"><span>Trees &amp; shrubs</span></label>
+            <label class="chip"><input type="checkbox" name="services" value="Rock and mulch"><span>Rock &amp; mulch</span></label>
+            <label class="chip"><input type="checkbox" name="services" value="Full yard build"><span>Full yard build</span></label>
+            <label class="chip"><input type="checkbox" name="services" value="Commercial lawn maintenance"><span>Commercial maintenance</span></label>
+            <label class="chip"><input type="checkbox" name="services" value="Commercial snow removal"><span>Snow removal</span></label>
+            <label class="chip"><input type="checkbox" name="services" value="Skid steer"><span>Skid steer work</span></label>
+          </div>
+          <p class="fineprint" data-err-services hidden style="color:#b3261e">Pick at least one so we know what to plan for.</p>
+        </fieldset>
+
+        <fieldset class="q-panel" hidden>
+          <legend>Tell us about the property</legend>
+          <p class="q-hint">This helps us bring the right people and samples to the visit.</p>
+          <div class="q-group">
+            <span class="q-label">Property</span>
+            <div class="chips">
+              <label class="chip"><input type="radio" name="property" value="New build home"><span>New build home</span></label>
+              <label class="chip"><input type="radio" name="property" value="Existing home"><span>Existing home</span></label>
+              <label class="chip"><input type="radio" name="property" value="Acreage"><span>Acreage</span></label>
+              <label class="chip"><input type="radio" name="property" value="Commercial"><span>Commercial</span></label>
+            </div>
+          </div>
+          <div class="q-group">
+            <span class="q-label">When would you like it done?</span>
+            <div class="chips">
+              <label class="chip"><input type="radio" name="timeline" value="As soon as possible"><span>As soon as possible</span></label>
+              <label class="chip"><input type="radio" name="timeline" value="This spring"><span>This spring</span></label>
+              <label class="chip"><input type="radio" name="timeline" value="This summer"><span>This summer</span></label>
+              <label class="chip"><input type="radio" name="timeline" value="Just planning"><span>Just planning</span></label>
+            </div>
+          </div>
+          <div class="q-group">
+            <span class="q-label">Rough budget <small>(optional)</small></span>
+            <div class="chips">
+              <label class="chip"><input type="radio" name="budget" value="Under $5k"><span>Under $5k</span></label>
+              <label class="chip"><input type="radio" name="budget" value="$5k–$15k"><span>$5k–$15k</span></label>
+              <label class="chip"><input type="radio" name="budget" value="$15k–$40k"><span>$15k–$40k</span></label>
+              <label class="chip"><input type="radio" name="budget" value="$40k+"><span>$40k+</span></label>
+              <label class="chip"><input type="radio" name="budget" value="Not sure yet"><span>Not sure yet</span></label>
+            </div>
+          </div>
+        </fieldset>
+
+        <fieldset class="q-panel" hidden>
+          <legend>Where should we reach you?</legend>
+          <p class="q-hint">We'll call to book a time that suits you.</p>
+          <div class="fields">
+            <div class="field"><label for="q-name">Name</label><input id="q-name" name="name" autocomplete="name" data-req><p class="err">Enter your name.</p></div>
+            <div class="field"><label for="q-phone">Phone</label><input id="q-phone" name="phone" type="tel" inputmode="tel" autocomplete="tel" data-req><p class="err">Enter a 10-digit phone number.</p></div>
+            <div class="field"><label for="q-email">Email <small style="font-weight:400;color:var(--granite)">(optional)</small></label><input id="q-email" name="email" type="email" autocomplete="email"><p class="err">Check the email address.</p></div>
+            <div class="field"><label for="q-addr">Address or neighbourhood</label><input id="q-addr" name="address" autocomplete="street-address"></div>
+            <div class="field full"><label for="q-notes">Anything else? <small style="font-weight:400;color:var(--granite)">(optional)</small></label><textarea id="q-notes" name="notes" placeholder="Yard size, what's there now, ideas you've saved…"></textarea></div>
+          </div>
+          <div class="hp" aria-hidden="true"><label>Leave empty<input name="website" tabindex="-1" autocomplete="off"></label></div>
+        </fieldset>
+
+        <div class="q-nav">
+          <button class="q-back" type="button" data-q-back hidden>Back</button>
+          <button class="btn btn-gold btn-lg q-next" type="submit" data-q-next>Continue <svg class="i"><use href="#i-arrow"/></svg></button>
+        </div>
+        <p class="q-trust"><svg class="i"><use href="#i-shield"/></svg>Your details go only to Buksh Landscapes. No spam, no sharing.</p>
+      </form>
+
+      <div class="qform q-done" data-q-done hidden tabindex="-1">
+        <div class="tick"><svg class="i"><use href="#i-check"/></svg></div>
+        <h3 class="h3">Request ready</h3>
+        <p data-q-done-msg></p>
+        <a class="btn btn-dark" href="tel:{{phone}}"><svg class="i"><use href="#i-phone"/></svg> Call {{phoneDisplay}}</a>
+      </div>
+    </div>
+  </div>
+</section>

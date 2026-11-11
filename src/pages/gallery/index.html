@@ -1,0 +1,32 @@
+<!--{
+  "title": "Project Gallery | Edmonton Patios, Turf & Landscaping | Buksh Landscapes",
+  "description": "Real Buksh Landscapes projects around Edmonton: paver patios, artificial turf and putting greens, sod, retaining walls, lighting, full yard builds and commercial snow removal.",
+  "nav": "gallery",
+  "hero": "aerial-backyard-firepit"
+}-->
+<section class="page-hero" data-p="exit">
+  <div class="ph-media">{{img name="aerial-backyard-firepit" sizes="100vw" loading="eager" priority="1"}}</div>
+  <div class="wrap">
+    <p class="crumbs"><a href="{{root}}">Home</a><span>/</span><span>Our work</span></p>
+    <h1 class="h1" style="max-width:13ch">Real yards. Real Edmonton.</h1>
+    <p class="lede">{{photoCount}} photos of our own work: no stock images. Tap any photo to see it larger.</p>
+  </div>
+</section>
+<section class="section" aria-label="Photo gallery">
+  <div class="wrap">
+    <div class="g-filters" role="group" aria-label="Filter photos">
+      <button type="button" data-filter="all" aria-pressed="true">All</button>
+      <button type="button" data-filter="builds" aria-pressed="false">Full yard builds</button>
+      <button type="button" data-filter="turf" aria-pressed="false">Turf &amp; putting greens</button>
+      <button type="button" data-filter="patios" aria-pressed="false">Patios &amp; stone</button>
+      <button type="button" data-filter="lawns" aria-pressed="false">Lawns &amp; planting</button>
+      <button type="button" data-filter="lighting" aria-pressed="false">Lighting</button>
+      <button type="button" data-filter="water" aria-pressed="false">Water</button>
+      <button type="button" data-filter="commercial" aria-pressed="false">Commercial &amp; snow</button>
+    </div>
+    <ul class="g-grid">
+{{gallery}}
+    </ul>
+  </div>
+</section>
+{{> quote}}

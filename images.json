@@ -1,0 +1,699 @@
+{
+ "aerial-modern-build": {
+  "w": 1800,
+  "h": 1012,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "builds",
+  "alt": "Aerial view of a modern Edmonton home with geometric concrete walkways, turf and planting beds"
+ },
+ "aerial-modern-build-2": {
+  "w": 1800,
+  "h": 1012,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "builds",
+  "alt": "Drone view of a full front-yard build with concrete, sod and rock beds"
+ },
+ "modern-estate-lawn": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "lawns",
+  "alt": "Wide new lawn in front of a large modern home"
+ },
+ "modern-home-side-lawn": {
+  "w": 1800,
+  "h": 1012,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "lawns",
+  "alt": "Side yard of a modern home with sod, boulders and young trees"
+ },
+ "night-lighting": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "lighting",
+  "alt": "Landscape and soffit lighting at night along a row of spruce trees"
+ },
+ "aerial-driveway-lit": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "builds",
+  "alt": "Aerial view of a long lit driveway through aspen and spruce on an acreage"
+ },
+ "aerial-acreage": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "builds",
+  "alt": "Acreage grading and tree planting from above"
+ },
+ "aerial-backyard-firepit": {
+  "w": 1024,
+  "h": 768,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "builds",
+  "alt": "Aerial view of a new backyard with sod, play area and patio"
+ },
+ "aerial-firepit-circle": {
+  "w": 1024,
+  "h": 768,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "patios",
+  "alt": "Circular paver fire pit area beside a fresh lawn, seen from above"
+ },
+ "aerial-gravel-firepit": {
+  "w": 1024,
+  "h": 768,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "patios",
+  "alt": "Gravel fire pit circle with boulder edging and new sod"
+ },
+ "aerial-curved-lawn": {
+  "w": 768,
+  "h": 1024,
+  "widths": [
+   480
+  ],
+  "cat": "builds",
+  "alt": "Curved lawn edging and fire pit in a long backyard, aerial view"
+ },
+ "aerial-patio-walk": {
+  "w": 1024,
+  "h": 768,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "patios",
+  "alt": "Paver patio and walkway between two lawns, aerial view"
+ },
+ "aerial-sod-rect": {
+  "w": 1024,
+  "h": 768,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "lawns",
+  "alt": "Rectangular sod lawn framed by black mulch, from above"
+ },
+ "aerial-front-walk": {
+  "w": 1024,
+  "h": 768,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "builds",
+  "alt": "Front walkway with curved lawns and rock beds, aerial view"
+ },
+ "putting-green-modern": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "turf",
+  "alt": "Backyard artificial putting green with flags beside a modern home"
+ },
+ "putting-green-2": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "turf",
+  "alt": "Artificial putting green with concrete curb edging"
+ },
+ "putting-green-3": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "turf",
+  "alt": "Compact putting green behind a two-storey home"
+ },
+ "putting-green-firepit": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "turf",
+  "alt": "Putting green beside a boulder-edged fire pit area"
+ },
+ "turf-curved-bed": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "turf",
+  "alt": "Curved artificial lawn with river rock and a gazebo patio"
+ },
+ "turf-flowers": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "turf",
+  "alt": "Artificial turf lawn with curb edging and flowering shrubs"
+ },
+ "turf-flowers-2": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "turf",
+  "alt": "Turf lawn lined with hydrangeas in late summer"
+ },
+ "turf-front": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "turf",
+  "alt": "Front yard artificial turf with rock bed and planting"
+ },
+ "turf-side": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "turf",
+  "alt": "Side-yard turf strip with gravel and fence"
+ },
+ "turf-modern-front": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "turf",
+  "alt": "Turf front lawn at a modern dark-sided home"
+ },
+ "turf-wrought-iron": {
+  "w": 1200,
+  "h": 1538,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "turf",
+  "alt": "Artificial lawn and planting along a wrought-iron fence"
+ },
+ "turf-curve-fence": {
+  "w": 1800,
+  "h": 1200,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "turf",
+  "alt": "Curved turf, stamped concrete and rock beds along an iron fence"
+ },
+ "turf-curve-fence-2": {
+  "w": 1800,
+  "h": 1350,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "turf",
+  "alt": "Turf lawn and curved concrete path with new cedars"
+ },
+ "turf-stone-house": {
+  "w": 1800,
+  "h": 2400,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "turf",
+  "alt": "Turf and curb edging beside a stone-clad home"
+ },
+ "turf-front-curve": {
+  "w": 1800,
+  "h": 1200,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "turf",
+  "alt": "Front yard turf curve with rock and planting"
+ },
+ "patio-sunset": {
+  "w": 1260,
+  "h": 945,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "patios",
+  "alt": "Grey paver patio and lawn at sunset backing onto green space"
+ },
+ "patio-flagstone": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "patios",
+  "alt": "Flagstone patio set into new sod with a cedar fence"
+ },
+ "patio-slab-walk": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "patios",
+  "alt": "Large-format slab walkway and lawn beside a modern home"
+ },
+ "stepping-stones": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "patios",
+  "alt": "Slab stepping stones across a lawn"
+ },
+ "fire-pit-pavers": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "patios",
+  "alt": "Round paver fire pit patio with seat wall"
+ },
+ "paver-walk-curve": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "patios",
+  "alt": "Curving paver walkway leading to a fire pit"
+ },
+ "fire-pit-boulders": {
+  "w": 1800,
+  "h": 1199,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "patios",
+  "alt": "Boulder-ringed gravel fire pit with mulch beds and hydrangeas"
+ },
+ "retaining-wall": {
+  "w": 1205,
+  "h": 908,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "patios",
+  "alt": "Long block retaining wall above fresh sod"
+ },
+ "steps-stone": {
+  "w": 1800,
+  "h": 1200,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "patios",
+  "alt": "Wide concrete block steps with lighting and rock beds"
+ },
+ "steps-lit": {
+  "w": 1260,
+  "h": 840,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "lighting",
+  "alt": "Front steps with path lights and a red-leaf shrub"
+ },
+ "steps-armour": {
+  "w": 1707,
+  "h": 2560,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "patios",
+  "alt": "Armour stone steps beside an iron gate"
+ },
+ "walkway-slab": {
+  "w": 1800,
+  "h": 2400,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "patios",
+  "alt": "Slab walkway with black edging between rock beds"
+ },
+ "flagstone-path": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "patios",
+  "alt": "Flagstone path through a gravel side yard"
+ },
+ "patio-slab-rear": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "patios",
+  "alt": "New concrete patio below a rear deck"
+ },
+ "rock-bed-boulder": {
+  "w": 1800,
+  "h": 1200,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "lawns",
+  "alt": "Mulch bed with boulders, young tree and path lights"
+ },
+ "stepping-gravel": {
+  "w": 1800,
+  "h": 1350,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "lawns",
+  "alt": "Stepping stones through black and grey rock beds"
+ },
+ "rock-path-front": {
+  "w": 1800,
+  "h": 2400,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "lawns",
+  "alt": "Front entry stepping stones and planting"
+ },
+ "tree-rock-bed": {
+  "w": 1600,
+  "h": 1200,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "lawns",
+  "alt": "Young tree in a rock bed with curb edging"
+ },
+ "tree-front": {
+  "w": 1440,
+  "h": 1440,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "lawns",
+  "alt": "Front yard with new tree, mulch circle and sod"
+ },
+ "front-yard-planting": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "lawns",
+  "alt": "Front yard planting bed with fresh mulch"
+ },
+ "front-yard-sign": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "lawns",
+  "alt": "Finished front bed with a Buksh Landscapes yard sign"
+ },
+ "sod-install": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "lawns",
+  "alt": "Freshly laid sod rolls in a fenced backyard"
+ },
+ "sod-curve-walk": {
+  "w": 1800,
+  "h": 1350,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "lawns",
+  "alt": "Curving lawn beside a paver walk and garden"
+ },
+ "rock-garden-steps": {
+  "w": 1800,
+  "h": 1350,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "lawns",
+  "alt": "Rock garden and steps on a sloped front yard"
+ },
+ "front-lawn-modern": {
+  "w": 1260,
+  "h": 840,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "lawns",
+  "alt": "Striped front lawn with young trees at a modern home"
+ },
+ "front-lawn-new": {
+  "w": 1800,
+  "h": 1350,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "lawns",
+  "alt": "New sod front lawn at a dark-sided home"
+ },
+ "sod-stepping": {
+  "w": 1260,
+  "h": 945,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "lawns",
+  "alt": "Stepping-stone path through a new lawn backing onto trees"
+ },
+ "sod-side": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "lawns",
+  "alt": "Sod and gravel side yard backing onto open field"
+ },
+ "lawn-dark-home": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "lawns",
+  "alt": "Rear lawn with black rock border at a modern home"
+ },
+ "estate-front": {
+  "w": 1440,
+  "h": 1171,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "lawns",
+  "alt": "Estate home front lawn with large mulch beds"
+ },
+ "pond-waterfall": {
+  "w": 1260,
+  "h": 719,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "water",
+  "alt": "Boulder pond with a small waterfall in a large lawn"
+ },
+ "grading-site": {
+  "w": 1260,
+  "h": 945,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "commercial",
+  "alt": "Skid steer grading the yard of a new build"
+ },
+ "snow-night-lot": {
+  "w": 1260,
+  "h": 945,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "commercial",
+  "alt": "Bobcat clearing a commercial parking lot at night"
+ },
+ "snow-night-lot-2": {
+  "w": 1260,
+  "h": 945,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "commercial",
+  "alt": "Night snow clearing in a retail parking lot"
+ },
+ "snow-night-mcd": {
+  "w": 1260,
+  "h": 795,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "commercial",
+  "alt": "Skid steer plowing a restaurant lot after a snowfall"
+ },
+ "snow-carwash": {
+  "w": 1260,
+  "h": 945,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "commercial",
+  "alt": "Snow crew and dump trailer at a car wash lot at night"
+ },
+ "snow-pile": {
+  "w": 1260,
+  "h": 945,
+  "widths": [
+   480,
+   960
+  ],
+  "cat": "commercial",
+  "alt": "Snow piled high by two skid steers"
+ },
+ "skidsteer-fleet": {
+  "w": 630,
+  "h": 484,
+  "widths": [
+   480
+  ],
+  "cat": "commercial",
+  "alt": "Wheeled and tracked Bobcats with snow attachments"
+ },
+ "edmonton-skyline": {
+  "w": 1600,
+  "h": 1140,
+  "widths": [
+   480,
+   960,
+   1600
+  ],
+  "cat": "none",
+  "alt": "Edmonton skyline over the river valley in fall"
+ }
+}
